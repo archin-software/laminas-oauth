@@ -1,6 +1,6 @@
 {
-    "name": "laminas/laminas-oauth",
-    "description": " ",
+    "name": "archin-software/laminas-oauth",
+    "description": "Updated version with some fixes for connecting to Jira.",
     "license": "BSD-3-Clause",
     "keywords": [
         "laminas",
