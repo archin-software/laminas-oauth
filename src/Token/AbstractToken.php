@@ -251,7 +251,7 @@ abstract class AbstractToken implements TokenInterface
      */
     public function __sleep()
     {
-        return ['_params'];
+        return ['params'];
     }
 
     /**
